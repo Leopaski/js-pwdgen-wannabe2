@@ -26,3 +26,12 @@ h1 {
     padding: 15px;
     border-radius: 15px;
 }
+
+.result {
+    text-align: center;
+    background-color:lightgreen;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 15px;
+    border-radius: 15px;
+}

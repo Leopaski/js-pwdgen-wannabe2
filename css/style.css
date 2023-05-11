@@ -1,0 +1,28 @@
+.intro { text-align: center;
+    background-color: aquamarine;
+    border-radius: 25px;
+    padding: 5%;
+    border-width: 2px;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: x-large;
+}
+h1 {
+    text-align: center;
+    text-decoration-color: brown;
+    text-decoration-line: underline;
+    font-family: fantasy;
+    font-size: 50px;
+}
+.container-flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.column {
+    width: 30%;
+    background-color: gold;
+    margin: 3%;
+    padding: 15px;
+    border-radius: 15px;
+}
